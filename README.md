@@ -32,7 +32,6 @@ To make an API to fetch latest videos sorted in reverse chronological order of t
   1. Python (DRF, Django, Flask, etc)
   2. GoLang
   3. JavaScript
-- Send your submission (Git repository) link at hiring@fampay.in
 
 # Reference:
 
